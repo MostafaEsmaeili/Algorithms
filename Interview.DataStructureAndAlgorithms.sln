@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interview.DataStructureAndAlgorithms.LeetCode", "Interview.DataStructureAndAlgorithms.LeetCode\Interview.DataStructureAndAlgorithms.LeetCode.csproj", "{03DBD669-396F-4671-AF24-5AD1D53D1A9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interview.DataStructureAndAlgorithms.LeetCode.Tests", "Interview.DataStructureAndAlgorithms.LeetCode.Tests\Interview.DataStructureAndAlgorithms.LeetCode.Tests.csproj", "{BBA03C23-1E4D-4C36-AE3A-6A8A0D9DBBB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03DBD669-396F-4671-AF24-5AD1D53D1A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03DBD669-396F-4671-AF24-5AD1D53D1A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03DBD669-396F-4671-AF24-5AD1D53D1A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03DBD669-396F-4671-AF24-5AD1D53D1A9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBA03C23-1E4D-4C36-AE3A-6A8A0D9DBBB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA03C23-1E4D-4C36-AE3A-6A8A0D9DBBB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA03C23-1E4D-4C36-AE3A-6A8A0D9DBBB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA03C23-1E4D-4C36-AE3A-6A8A0D9DBBB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
